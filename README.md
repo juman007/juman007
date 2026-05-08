@@ -84,11 +84,11 @@
 ```typescript
 const juman: Developer = {
   name:        "Juman Saikia",
-  location:    "Bongaigaon, Assam, India  🇮🇳",
+  location:    "Guwahati, Assam, India",
   experience:  "2+ Years of Full Stack Development",
   role:        "Full Stack MERN Developer  &  DevOps Enthusiast",
 
-  frontend:    ["React", "Next.js", "Redux", "JavaScript", "HTML5", "CSS3", "Sass", "Bootstrap"],
+  frontend:    ["React", "Next.js", "Redux", "JavaScript","Typescript", "HTML5", "CSS3", "Sass", "Bootstrap"],
   backend:     ["Node.js", "Express.js", "REST APIs", "JWT", "WebSockets"],
   databases:   ["MongoDB", "PostgreSQL", "MySQL"],
   devops:      ["Docker", "GitHub Actions", "NGINX", "Linux", "VPS Deployment", "CI/CD"],
@@ -157,89 +157,6 @@ const juman: Developer = {
 <!--                  FEATURED PROJECTS                        -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🍔 &nbsp;MERN Food Delivery Platform
-> Full-stack multi-vendor food delivery application
-
-**✅ Key Features:**
-- 🏪 Restaurant registration & admin approval
-- 📋 Menu & product management
-- 🛒 Cart, order tracking & history
-- 💳 Stripe payment integration
-- 👑 Admin dashboard & analytics
-
-**Stack:** &nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 &nbsp;Online PDF Editor
-> Browser-based document manipulation tool
-
-**✅ Key Features:**
-- 🖼️ Convert images to PDF
-- 🔗 Merge multiple PDF files
-- ✂️ Split PDF documents
-- 🗜️ Compress PDFs
-- 📥 Instant in-browser download
-
-**Stack:** &nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 &nbsp;Crypto Universe
-> Real-time cryptocurrency market tracker
-
-**✅ Key Features:**
-- 💹 Live prices via CoinGecko API
-- 🔍 Search & filter coins
-- 💱 INR / USD currency toggle
-- 📊 Price history charts
-
-**Stack:** &nbsp;
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![API](https://img.shields.io/badge/-CoinGecko_API-8DC63F?style=flat-square&logo=coingecko&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 &nbsp;More Coming Soon...
-> Always building something new
-
-**🚧 Currently Exploring:**
-- 🗄️ PostgreSQL-powered microservices
-- 🏗️ Scalable system architecture
-- 🐳 Advanced Docker & orchestration
-- 🌐 Open source contributions
-
-**Follow my journey:** &nbsp;
-[![GitHub](https://img.shields.io/badge/-@juman007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juman007)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--               EXPERIENCE TIMELINE                         -->
